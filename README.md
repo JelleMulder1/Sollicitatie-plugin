@@ -7,3 +7,6 @@
 - /removeplayercolor <player> (Een kleur verwijderen voor een speler)
 - /playercolor reload (De config reloaden)
 - /playercolor <player> (Zie de kleur van een speler)
+
+## info:
+Graag bij het installeren van de plugin, de config.yml aanpassen zodat de database gekoppeld is.
