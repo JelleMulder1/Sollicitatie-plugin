@@ -1,0 +1,10 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‹÷½…8¨‡ýùñ1
+t	java:S116"SRename this field "DataFile" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä°É¹ÿÿÿÿÿ8À‡ýùñ1
+u	java:S116"YRename this field "DataYamlconfig" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾þ„è8Á‡ýùñ1
+^
+java:S1128"<Remove this unused import 'com.mysql.cj.protocol.Resultset'.(«‹’ûÿÿÿÿ8Û‡ýùñ1
+R
+java:S1128	"0Remove this unused import 'java.io.IOException'.(ªº»Úýÿÿÿÿ8ŠÙƒúñ1
+N
+java:S1068",Remove this unused "DataFile" private field.(ä°É¹ÿÿÿÿÿ8…¿ÿùñ1

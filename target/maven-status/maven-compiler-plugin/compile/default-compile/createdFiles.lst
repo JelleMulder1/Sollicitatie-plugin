@@ -1,0 +1,6 @@
+me\jelle\harmserversollicitatiespigotplugin\Listeners\ontabcompleter.class
+me\jelle\harmserversollicitatiespigotplugin\Commands\playercolor.class
+me\jelle\harmserversollicitatiespigotplugin\Commands\setcolor.class
+me\jelle\harmserversollicitatiespigotplugin\Database\DatabaseManager.class
+me\jelle\harmserversollicitatiespigotplugin\Commands\removecolor.class
+me\jelle\harmserversollicitatiespigotplugin\HarmserverSollicitatiespigotPlugin.class

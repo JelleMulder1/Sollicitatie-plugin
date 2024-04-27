@@ -1,0 +1,27 @@
+name: HarmserverSollicitatiespigotPlugin
+version: '1.0'
+main: me.jelle.harmserversollicitatiespigotplugin.HarmserverSollicitatiespigotPlugin
+api-version: '1.20'
+commands:
+  setplayercolor:
+    description: Zet een kleur voor een speler!
+    usage: /<command> <player> <color>
+    aliases:
+      - sc
+    permission: plugin.setplayercolor
+    permission-message: You don't have permission to execute this command!
+    tab-completer: me.jelle.harmserversollicitatiespigotplugin.Listeners.ontabcompleter
+  removeplayercolor:
+    description: Remove een kleur van een speler
+    usage: /<command>
+    aliases:
+      - rc
+    permission: plugin.removeplayercolor
+    permission-message: You don't have permission to execute this command!
+  playercolor:
+    description: Verkijg de kleur van een speler of reload de configuratie
+    usage: /<command>
+    permission: plugin.playercolor
+    permission-message: You don't have permission to execute this command!
+    aliases:
+      - pc

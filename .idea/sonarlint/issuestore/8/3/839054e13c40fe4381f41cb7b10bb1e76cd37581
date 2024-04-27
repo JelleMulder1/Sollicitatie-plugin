@@ -1,0 +1,9 @@
+
+g	java:S1127"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òιόÿÿÿÿ8ςιμίρ1
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Α‰υ«ώÿÿÿÿ8χιμίρ1
+u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(€υ±L8ωιμίρ1
+F	java:S106"+Replace this use of System.out by a logger.(—ίΎy8κμίρ1
+c
+java:S1126G"AReplace this if-then-else statement by a single return statement.(™ρρπωÿÿÿÿ8›κμίρ1
+R
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªΊ»Ϊύÿÿÿÿ8”πϊρ1

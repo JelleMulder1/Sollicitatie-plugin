@@ -1,0 +1,3 @@
+
+g	java:S112A"FDefine and throw a dedicated exception instead of using a generic one.(ÆäÎøÿÿÿÿ8ĞÒÄúñ1
+r	java:S117L"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø õ©ÿÿÿÿÿ8ØÒÄúñ1

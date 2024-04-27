@@ -1,0 +1,7 @@
+storage:
+  mysql-credentials:
+    host: localhost
+    port: 3306
+    database: my_database
+    username: my_username
+    password: my_password
